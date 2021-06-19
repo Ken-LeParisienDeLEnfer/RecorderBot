@@ -1,0 +1,12 @@
+C:\Users\ST04229\Desktop\workspace\CopaAmericaRecorder\bin\Debug\CopaAmericaRecorder.exe.config
+C:\Users\ST04229\Desktop\workspace\CopaAmericaRecorder\bin\Debug\CopaAmericaRecorder.exe
+C:\Users\ST04229\Desktop\workspace\CopaAmericaRecorder\bin\Debug\CopaAmericaRecorder.pdb
+C:\Users\ST04229\Desktop\workspace\CopaAmericaRecorder\bin\Debug\WindowsInput.dll
+C:\Users\ST04229\Desktop\workspace\CopaAmericaRecorder\bin\Debug\WindowsInput.xml
+C:\Users\ST04229\Desktop\workspace\CopaAmericaRecorder\obj\Debug\CopaAmericaRecorder.csproj.AssemblyReference.cache
+C:\Users\ST04229\Desktop\workspace\CopaAmericaRecorder\obj\Debug\CopaAmericaRecorder.Properties.Resources.resources
+C:\Users\ST04229\Desktop\workspace\CopaAmericaRecorder\obj\Debug\CopaAmericaRecorder.csproj.GenerateResource.cache
+C:\Users\ST04229\Desktop\workspace\CopaAmericaRecorder\obj\Debug\CopaAmericaRecorder.csproj.CoreCompileInputs.cache
+C:\Users\ST04229\Desktop\workspace\CopaAmericaRecorder\obj\Debug\CopaAmericaRecorder.csproj.CopyComplete
+C:\Users\ST04229\Desktop\workspace\CopaAmericaRecorder\obj\Debug\CopaAmericaRecorder.exe
+C:\Users\ST04229\Desktop\workspace\CopaAmericaRecorder\obj\Debug\CopaAmericaRecorder.pdb
